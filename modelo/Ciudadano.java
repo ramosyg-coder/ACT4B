@@ -18,8 +18,8 @@ public class Ciudadano {
     public void mostrarInfo() {
         System.out.println(
             "Ciudadano: " + nombre + // Ciudadano: Yadira Ramos
-          "\nCURP: " + curp +        // CURP: MAMCXXXXX
-          "\nTel: " + telefono       // Tel: 962123456
+          "\nCURP: " + curp +        // CURP: RAGYXXXXX
+          "\nTel: " + telefono       // Tel: 9931234567
         );
     }
 
