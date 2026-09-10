@@ -1,7 +1,7 @@
 package modelo;
 
 public class Ciudadano {
-   
+
     // Atributos
     private String nombre;
     private String curp;
