@@ -7,7 +7,7 @@ public class Requisito {
     private boolean fueEntregado;
 
     // Constructor
-    public Requisito (String nombreDocumento, boolean fueEntregado) {
+    public Requisito (String nombreDocumento) {
         this.nombreDocumento = nombreDocumento;
         this.fueEntregado = false; // Por defecto, inicia sin entregarse.
     }
